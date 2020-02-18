@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Afrina Tabassum"
 title_separator          : "-"
 name                     : &name "Afrina Tabassum"
-description              : &description "I study a virginia tech"
+description              : &description "Student at Virginia Tech"
 url                      : https://afrina23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afrina23/afrina23.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "afrina23"
   google_plus      :
   keybase          :
   instagram        :
